@@ -2,7 +2,7 @@ body {
   background-image: url("image/e3b9f1ef7d04424a52f8016a2b2f86f1.jpg");
     background-size: cover;
     background-position: center;
-    height: 400px;
+    height: 80vh;
     width: 100%;
     color: white;
     display: flex;
@@ -14,7 +14,7 @@ h1 {
   top: 30px;
   width: 100%;
   text-align: center;
-  font-size: 3em;
+ font-size: 8vw;
   color: white;
   font-family: 'Georgia', serif;
   text-shadow: 2px 2px 8px black;
